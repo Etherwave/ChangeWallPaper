@@ -1,0 +1,9 @@
+D:\CsharpDev\ChangeWallPaper\ChangeWallPaper\bin\Release\ChangeWallPaper.exe.config
+D:\CsharpDev\ChangeWallPaper\ChangeWallPaper\bin\Release\ChangeWallPaper.exe
+D:\CsharpDev\ChangeWallPaper\ChangeWallPaper\bin\Release\ChangeWallPaper.pdb
+D:\CsharpDev\ChangeWallPaper\ChangeWallPaper\obj\Release\ChangeWallPaper.Form1.resources
+D:\CsharpDev\ChangeWallPaper\ChangeWallPaper\obj\Release\ChangeWallPaper.Properties.Resources.resources
+D:\CsharpDev\ChangeWallPaper\ChangeWallPaper\obj\Release\ChangeWallPaper.csproj.GenerateResource.cache
+D:\CsharpDev\ChangeWallPaper\ChangeWallPaper\obj\Release\ChangeWallPaper.csproj.CoreCompileInputs.cache
+D:\CsharpDev\ChangeWallPaper\ChangeWallPaper\obj\Release\ChangeWallPaper.exe
+D:\CsharpDev\ChangeWallPaper\ChangeWallPaper\obj\Release\ChangeWallPaper.pdb

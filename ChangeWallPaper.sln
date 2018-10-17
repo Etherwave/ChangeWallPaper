@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28016.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeWallPaper", "ChangeWallPaper\ChangeWallPaper.csproj", "{C2D823B2-610E-4E70-B7AE-E738CC474A33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2D823B2-610E-4E70-B7AE-E738CC474A33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2D823B2-610E-4E70-B7AE-E738CC474A33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2D823B2-610E-4E70-B7AE-E738CC474A33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2D823B2-610E-4E70-B7AE-E738CC474A33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01ED73C7-9C96-4C90-8873-B156EE830783}
+	EndGlobalSection
+EndGlobal
